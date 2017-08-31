@@ -1,4 +1,4 @@
-Desenvolvi uma lista de compras com as seguintes ferramentas:
+Lista de compras com as seguintes ferramentas:
 .HTML5
 .Bootstrap 
 .AngularJs
